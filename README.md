@@ -2,7 +2,10 @@
 对Android的底部弹窗、顶部弹窗菜单及自定义界面的使用封装。
 
 CSDN：[https://me.csdn.net/Chengmenghui_oop](http://me.csdn.net/Chengmenghui_oop)
+[![](https://jitpack.io/v/chengmenghuidev/popwindowcustom.svg)](https://jitpack.io/#chengmenghuidev/popwindowcustom)
 
+
+[![](https://jitpack.io/v/chengmenghuiAndroid/PopWindowCustom.svg)](https://jitpack.io/#chengmenghuiAndroid/PopWindowCustom)
 ![](https://github.com/HMY314/PopWindow/blob/master/imageCache/gif1.gif)
 ![](https://github.com/HMY314/PopWindow/blob/master/imageCache/gif2.gif)
 
