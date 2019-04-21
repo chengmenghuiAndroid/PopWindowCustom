@@ -3,11 +3,9 @@
 
 CSDN：[https://me.csdn.net/Chengmenghui_oop](http://me.csdn.net/Chengmenghui_oop)
 [![](https://jitpack.io/v/chengmenghuidev/popwindowcustom.svg)](https://jitpack.io/#chengmenghuidev/popwindowcustom)
-
-
-[![](https://jitpack.io/v/chengmenghuiAndroid/PopWindowCustom.svg)](https://jitpack.io/#chengmenghuiAndroid/PopWindowCustom)
 ![](https://github.com/HMY314/PopWindow/blob/master/imageCache/gif1.gif)
 ![](https://github.com/HMY314/PopWindow/blob/master/imageCache/gif2.gif)
+
 
 ----------
 ## 一、介绍
@@ -15,6 +13,10 @@ CSDN：[https://me.csdn.net/Chengmenghui_oop](http://me.csdn.net/Chengmenghui_oo
         1、底部弹出，主要参考默认风格是参考IOS的UIAlertController，可以添加自定义View；
         2、底部弹出，从顶部向下弹出的效果，同时支持控制按钮执行动画，默认是旋转动画；
         3、屏幕中间弹出
+
+     dependencies { 
+	        implementation 'com.github.chengmenghuidev:popwindowcustom:1.0.0'
+	 }
 
 ---
 ## 二、核心类PopWindow
